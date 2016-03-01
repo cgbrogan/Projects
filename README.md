@@ -1,3 +1,3 @@
 # Projects
 
-A growing list of projects - both completed and in the process of completing - for fun
+A growing list of projects for fun and experience
